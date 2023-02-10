@@ -1,6 +1,6 @@
 # freddb
 Learning the nuances of python as this is my first project.
-My objectives were toL
+My objectives were to:
 - use an API /functionality to call data from the fred
 - parse it, clean it
 - then store it in a database.
